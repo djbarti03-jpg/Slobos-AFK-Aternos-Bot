@@ -8,8 +8,8 @@
   "server": {
     "ip": "KOKSY-V6xY.aternos.me",
     "port": 47426,
-    "version": "",
-    "try-creative": false
+    "version": 26.1.2,
+    "try-creative": true
   },
   "position": {
     "enabled": true,
